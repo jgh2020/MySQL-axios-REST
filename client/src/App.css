@@ -2,6 +2,16 @@
   text-align: center;
 }
 
+/* tr{
+  border: 2px solid red;
+} */
+/* div{
+   border-bottom:2px solid gray;
+} */
+
+
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +45,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
